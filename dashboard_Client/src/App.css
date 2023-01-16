@@ -1,0 +1,13 @@
+.modalContent {
+	flex-grow: 1;
+	overflow: hidden;
+	width: 25rem;
+	border-radius: 0.7rem;
+	padding: 2rem;
+	margin: auto;
+	background-color: #fff;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-top: 5rem;
+}
